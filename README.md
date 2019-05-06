@@ -1,3 +1,5 @@
+# Coursera - Machine Learning by Andrew Ng
+https://www.coursera.org/learn/machine-learning
 # Exercise 2: Logistic Regression
 In this exercise, you will implement logistic regression and apply it to two
 different datasets. Before starting on the programming exercise, we strongly
