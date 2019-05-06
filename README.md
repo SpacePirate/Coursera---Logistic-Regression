@@ -9,8 +9,8 @@ code and unzip its contents to the directory where you wish to complete the
 exercise. If needed, use the cd command in Octave/MATLAB to change to
 this directory before starting this exercise.
 <br />
-You can also find instructions for installing Octave/MATLAB in the \En-
-vironment Setup Instructions" of the course website.
+You can also find instructions for installing Octave/MATLAB in the 
+Environment Setup Instructions" of the course website.
 <br />
 # Files included in this exercise
 ex2.m - Octave/MATLAB script that steps you through the exercise<br />
